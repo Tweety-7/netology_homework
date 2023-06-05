@@ -3,7 +3,9 @@
 https://cat.2035.university/rall/course/18784/?project_id=48
 
 Работа с базами данных в SQL
+
 https://github.com/Tweety-7/netology_homework/tree/master/01_sql
+
 Знать:
 • знать архитектуру и структуру базы данных в общем виде
 • понимать алгоритм применения аналитических функций SQL
@@ -24,9 +26,17 @@ https://github.com/Tweety-7/netology_homework/tree/master/01_sql
 Знать:
 • знание основ Python и основ системы контроля версий
 
+https://github.com/Tweety-7/netology_homework/tree/master/02_python_start
+
+
 Уметь:
 • умение работать с библиотеками для анализа данных (numpy, scipy, pandas)
+
+https://github.com/Tweety-7/netology_homework/tree/master/03_numpy_pandas
+
 • умение работать со статистикой в Python (Основы описательной статистики, статистический анализ данных, методы математической оптимизации)
+
+https://github.com/Tweety-7/netology_homework/tree/master/04_stat_py
 
 Владеть:
 • владение инструментами Python (знание базовых и продвинутых типов данных, циклов, функций и классов)
@@ -75,6 +85,8 @@ Feature engineering и предобработка данных
 • уметь строить масштабируемую рекомендательную модель с помощью пакета implicit
 • уметь разрешать проблемы холодного старта
 • уметь объединять системы разного типа в гибридные
+
+https://github.com/Tweety-7/netology_homework/tree/master/08_rec_sys
 
 Владеть:
 • использование пакета implicit для построения масштабируемой рекомендательной модели
