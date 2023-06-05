@@ -3,7 +3,7 @@
 https://cat.2035.university/rall/course/18784/?project_id=48
 
 Работа с базами данных в SQL
-
+https://github.com/Tweety-7/netology_homework/tree/master/01_sql
 Знать:
 • знать архитектуру и структуру базы данных в общем виде
 • понимать алгоритм применения аналитических функций SQL
